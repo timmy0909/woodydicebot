@@ -28,7 +28,7 @@ function tweeted(err, data, response) {
 
 
 
-setInterval(tweetIt, 4800000)
+setInterval(tweetIt, 9000000)
 
 tweetIt();
 
