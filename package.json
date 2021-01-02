@@ -1,0 +1,17 @@
+{
+  "name": "friends-dice",
+  "version": "1.0.0",
+  "description": "bot que twittea cada cierto tiempo frases de FRIENDS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "T.O.Wempires",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "rss-converter": "^1.1.6",
+    "rss-emitter-ts": "^0.4.6",
+    "twit": "^2.2.11"
+  }
+}
