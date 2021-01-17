@@ -55,7 +55,14 @@ function tweetIt(){
 	"Vamos al noanoa.",
 	"Me gustas.",
 	"Quiero jumex.",
-  "Yo desayuno el peligro."];
+        "Yo desayuno el peligro.", 
+	"Los amo a todosss.",
+        "Dame tronc- OEEEEE",
+	"Quieres casarte conmigo?",
+        "Me lleva la wanabana.",
+        "No me soltaba la fijarafa.",
+        "Eres un puerko.",
+        "Here we kum and we don't care nacha."];
 	
 	var tweet = {
 		status: frases[Math.floor(Math.random() * frases.length)]
